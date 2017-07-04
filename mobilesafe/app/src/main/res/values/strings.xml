@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">mobilesafe</string>
+    <string name="apkUrl">http://192.168.56.1:8080/test.html</string>
+</resources>
